@@ -27,5 +27,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ares909&show_icons=true&theme=light&line_height=27" alt="Igor's github stats"/>
 </a>
 
+### Contacts:
+email: ares909@yandex.ru
+phone: +79885758834
+tg: @aresz
+LinkedIn: https://www.linkedin.com/in/dmitry-khomyakov-15755ab6
+
 
 
