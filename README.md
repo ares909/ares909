@@ -28,10 +28,10 @@
 </a>
 
 ### Contacts:
-email: ares909@yandex.ru
-phone: +79885758834
-tg: @aresz
-LinkedIn: https://www.linkedin.com/in/dmitry-khomyakov-15755ab6
+* email: ares909@yandex.ru
+* phone: +79885758834
+* tg: @aresz
+* LinkedIn: https://www.linkedin.com/in/dmitry-khomyakov-15755ab6
 
 
 
