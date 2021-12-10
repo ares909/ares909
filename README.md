@@ -3,7 +3,7 @@
 - I’m currently learning at Yandex.Praktikum 
 - I’m looking for a job as junior frontend developer
 - 2021 Goals: Typescipt, backend basis and deeper understanding of Frontend stack
-- Lifegoal: to follow my path of ninja
+
 
 ### Languages and Tools:
 
