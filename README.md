@@ -1,8 +1,7 @@
 ### Hi, I'm Dmitry Khomyakov - Frontend developer
 
-- I’m currently learning at Yandex.Praktikum 
-- I’m looking for a job as junior frontend developer
-- 2021 Goals: Typescipt, backend basis and deeper understanding of Frontend stack
+- I’m currently working as Frontend developer at Accenture
+- 2022 goal - dig deaper to JS and its environment
 
 
 ### Languages and Tools:
