@@ -29,7 +29,7 @@
 ### Contacts:
 * email: ares909@yandex.ru
 * phone: +79885758834
-* tg: @aresz
+* tg: @aresz0r
 * LinkedIn: https://www.linkedin.com/in/dmitry-khomyakov-15755ab6
 
 
