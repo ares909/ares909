@@ -1,7 +1,6 @@
 ### Hi, I'm Dmitry Khomyakov - Frontend developer
 
-- I’m currently working as Frontend developer at Accenture
-- 2022 goal - dig deaper to JS and its environment
+- I’m currently working as Frontend developer at Gazprombank
 
 
 ### Languages and Tools:
